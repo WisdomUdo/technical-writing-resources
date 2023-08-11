@@ -1,3 +1,4 @@
 # technical-writing-resources
-Documentations on go-to use resource on technical writing.
-Here you'll find some good stuff for both beginner and advance level technical writer.
+----
+I'm looking forward to curate a plagiarized free go-to read resources, that'll help you stayed upto-date in your writing career.
+----
